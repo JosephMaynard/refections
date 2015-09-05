@@ -8,5 +8,11 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-git diff     Difference between working directory and last commit
+git diff     Difference between working directory and staged
 git diff --staged      difference between Staged and last commit
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+git branch
+git branch new-branch-name
