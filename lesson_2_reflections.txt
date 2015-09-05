@@ -5,3 +5,8 @@ Initalise doesn't commit
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 (blah baly)
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git diff     Difference between working directory and last commit
+git diff --staged      difference between Staged and last commit
