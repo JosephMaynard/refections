@@ -2,9 +2,11 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Initalise doesn't commit
 
+
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-(blah baly)
+(blah blah)
+
 
 How can you use the staging area to make sure you have one commit per logical change?
 
@@ -16,3 +18,19 @@ What are some situations when branches would be helpful in keeping your history 
 
 git branch
 git branch new-branch-name
+
+
+How do the diagrams help you visualize the branch structure?
+
+(blah) 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+git merge
+git show      diff with parent file
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+(blah) 
